@@ -1,0 +1,9 @@
+Feature,Coefficient
+categorical__region_southeast,-838.9196157269704
+categorical__region_southwest,-659.1397515529637
+categorical__region_northwest,-391.7614547836083
+categorical__sex_male,-101.54205399029699
+numeric__age,248.21072022470466
+numeric__bmi,318.70144095235054
+numeric__children,533.009988798697
+categorical__smoker_yes,23077.764592868087
